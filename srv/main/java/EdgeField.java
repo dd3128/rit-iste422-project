@@ -1,3 +1,4 @@
+package srv.main.java;
 import java.util.StringTokenizer;
 
 public class EdgeField {
