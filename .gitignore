@@ -23,3 +23,7 @@
 hs_err_pid*
 
 nohup.out
+
+# ignore system generate files
+.DS_Store
+_MACOSX
