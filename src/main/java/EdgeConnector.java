@@ -1,4 +1,4 @@
-package srv.main.java;
+package src.main.java;
 import java.util.StringTokenizer;
 
 public class EdgeConnector {
